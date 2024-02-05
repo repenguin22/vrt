@@ -11,7 +11,7 @@
     "storybook": "storybook dev -p 9001",
     "build-storybook": "storybook build",
     "storycap": "storycap --serverCmd 'npx http-server storybook-static --ci -p 9009' http://localhost:9009",
-    "reg-suit:run": "reg-suit run"
+    "reg-suit": "reg-suit run"
   },
   "dependencies": {
     "react": "^18.2.0",
