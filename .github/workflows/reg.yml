@@ -1,6 +1,6 @@
 # .github/workflows/reg.yml
-
-on: [push]
+name: run-reg-suit
+on: push
 
 jobs:
   build:
