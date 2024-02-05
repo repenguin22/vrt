@@ -9,7 +9,8 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "reg-suit:run": "reg-suit run"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -33,6 +34,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "eslint-plugin-storybook": "0.6.15",
+    "reg-keygen-git-hash-plugin": "0.13.0",
+    "reg-notify-github-plugin": "0.13.0",
+    "reg-publish-s3-plugin": "0.13.0",
+    "reg-suit": "0.13.0",
     "storybook": "7.6.12",
     "storycap": "4.2.0",
     "typescript": "^5.2.2",
