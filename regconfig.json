@@ -14,7 +14,8 @@
       "prComment": true,
       "prCommentBehavior": "default",
       "setCommitStatus": false,
-      "clientId": "Mzc1sjAzMTIz0C8rKtE3MbM0NjYzM9YvSi1IzUsvzcwzMgIA"
+      "clientId": "Mzc1sjAzMTIz0C8rKtE3MbM0NjYzM9YvSi1IzUsvzcwzMgIA",
+      "shortDescription": true
     },
     "reg-publish-s3-plugin": {
       "bucketName": "repenguin22-vrt-sample",
